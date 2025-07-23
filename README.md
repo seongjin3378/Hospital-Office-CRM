@@ -10,7 +10,7 @@ npm install
 npm run dev
 
 ## 🔍 4. Electron 앱 미리보기 (빌드 없이 실행)
-npx electron-vite start
+npm run start
 
 ## 🛠️ 5. Windows용 설치 파일 빌드 (.exe 생성)
 npx electron-vite build --win
