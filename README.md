@@ -1,8 +1,5 @@
-## 📚 공식 문서
+## 📚 참고 문서 및 기획
 [⚡ Electron Vite 공식 문서](https://electron-vite.org)
-
-
-## 🗂 ER 다이어그램
 [👉 ER 다이어그램 보기](https://dbdiagram.io/d/686b97eff413ba35089a79d1) [수정 중]
 
 # 🏥 Hospital Office CRM 설치 및 실행 가이드
