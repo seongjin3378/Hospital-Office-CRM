@@ -23,7 +23,7 @@ npm run dev
 npm run start
 ```
 
-## 🛠⬇️ 5. Windows용 설치 파일 빌드 (.exe 생성)
+## 🛠⬇ 5. Windows용 설치 파일 빌드 (.exe 생성)
 ```bash
 npm run build:win
 ```
